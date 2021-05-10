@@ -1,0 +1,10 @@
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Formulario\bin\Debug\Formulario.exe
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Formulario\bin\Debug\Formulario.pdb
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Formulario\obj\Debug\Formulario.Form1.resources
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Formulario\obj\Debug\Formulario.exe
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 1\Formulario\obj\Debug\Formulario.pdb
